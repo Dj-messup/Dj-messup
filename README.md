@@ -16,7 +16,9 @@ I build practical projects and keep documentation clear so others can follow the
 
 ### Interests
 DFIR • Cyber investigations • SOC workflows • Secure software development • Cloud security • Networking
-Open to different experiences and opportunities
+Open to different experiences and opportunities. 
+- NFC/RFID access control experience (card encoding and access control provisioning)
+
 
 ### Connect
 - LinkedIn: https://www.linkedin.com/in/lia-gomes/
