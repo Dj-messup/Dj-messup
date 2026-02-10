@@ -26,7 +26,7 @@ Cybersecurity minor coursework GPA: **4.0**
 - **CSCI 370: Computer Security** (A)
 - **CSCI 465: Network/Application Security** (A)
 - **CSCI 420: Software Security** (in progress)
-- **CISB 311: Fundamentals of Cloud Security** (in progress, current grade: **A**)
+- **CISB 311: Fundamentals of Cloud Security** (A)
 
 ## What you’ll find here
 - Security labs and reports with reproducible steps
