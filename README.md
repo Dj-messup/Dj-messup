@@ -34,9 +34,9 @@ Cybersecurity minor coursework GPA: **4.0**
 - Projects where I prioritize clear documentation and maintainable code
 
 ## Current work
-- **CompTIA Security+** prep
-- **CompTIA Network+** prep
-- **CompTIA Cloud+** prep
+- **CompTIA Security+** prep April
+- **CompTIA Network+** prep May
+- **CompTIA Cloud+** prep March
 
 ## Practical experience
 - Campus operations roles where accuracy, confidentiality, and professional communication matter
