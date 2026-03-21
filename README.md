@@ -7,7 +7,7 @@
 
 </div>
 
-# Hi, I’m Lia “Chica” Gomes 👋
+# Hi, I’m Lia “Chica” Gomes 
 
 Cybersecurity student focused on **DFIR**, **incident response**, and **cloud/network security**.  
 I build practical projects and keep documentation clear so others can follow the work.
